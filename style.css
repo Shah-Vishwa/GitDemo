@@ -1,0 +1,15 @@
+header {
+  background: linear-gradient(135deg, #007bff, #6610f2);
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
